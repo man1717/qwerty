@@ -1,0 +1,49 @@
+[33mcommit 52dabc9d73f83fc5c49b31186cc10fed4f7735bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Manvel Khachatryan <17.man@mail.ru>
+Date:   Mon Jun 3 15:39:50 2019 +0400
+
+    test branch
+
+[33mcommit 557f6b8f0a82df2175379b1766a51f63cdd25aee[m[33m ([m[1;32mmanvel[m[33m)[m
+Author: Manvel Khachatryan <17.man@mail.ru>
+Date:   Mon Jun 3 14:55:55 2019 +0400
+
+    Revert "wrong commit"
+    
+    This reverts commit 06aeb9149806df2640ace3437b2533270a33e268.
+
+[33mcommit 06aeb9149806df2640ace3437b2533270a33e268[m
+Author: Manvel Khachatryan <17.man@mail.ru>
+Date:   Mon Jun 3 14:51:58 2019 +0400
+
+    wrong commit
+
+[33mcommit 5988d249600f8babb0a49b922d7e6911feb613f4[m
+Author: Manvel Khachatryan <17.man@mail.ru>
+Date:   Mon Jun 3 14:22:01 2019 +0400
+
+    New commit
+
+[33mcommit d3dd3851c31fc6ab05d39a79a2bb41743e9c0c19[m
+Author: Manvel Khachatryan <17.man@mail.ru>
+Date:   Mon Jun 3 14:15:45 2019 +0400
+
+    New file
+
+[33mcommit 798ad63bb7500cefcbc11b6ba90ee9197a1552f1[m
+Author: Manvel Khachatryan <17.man@mail.ru>
+Date:   Mon Jun 3 14:10:40 2019 +0400
+
+    test status
+
+[33mcommit 1ff558836ea944761314f93fefe8d07d46cce0f1[m
+Author: Manvel Khachatryan <17.man@mail.ru>
+Date:   Mon Jun 3 13:48:07 2019 +0400
+
+    second commit
+
+[33mcommit 18b72620977ff1b2773ff758a2c2aa8ddecbb76c[m
+Author: Manvel Khachatryan <17.man@mail.ru>
+Date:   Mon Jun 3 13:45:04 2019 +0400
+
+    first commit
